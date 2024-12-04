@@ -1,4 +1,4 @@
-# $\large\bf\color{#556B2F}Win32API\ Project$
+# $\large\bf\color{#FFFFFF}Win32API\ Project$
 
 ### $\large\bf\color{#CD5C5C}프로젝트\ 명$
 Skul : The Slayer Hero 모작
